@@ -1,5 +1,5 @@
 class Coffee
   constructor:->
-    console.log "coffee module"
+    console.log "[coffee module]"
 
 module.exports = Coffee
